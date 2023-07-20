@@ -1,5 +1,5 @@
-##todo App
-![Todo App Screenshot](src/assets/todo_app_screenshot.png)
+## todo App
+(src/assets/screely-1689877065776.png)
 
 
  
