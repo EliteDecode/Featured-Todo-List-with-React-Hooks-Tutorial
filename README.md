@@ -1,4 +1,4 @@
-## todo App
+## Todo App
 ![Todo App Screenshot](src/assets/screely-1689877065776.png)
 
 
