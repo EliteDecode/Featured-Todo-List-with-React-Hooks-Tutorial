@@ -6,6 +6,8 @@ import deleteImg from "./assets/delete.png";
 import completeImg from "./assets/check.png";
 import writeImg from "./assets/implementer.png";
 import closeImg from "./assets/close.png";
+import todoAppScreenshot from "./assets/screely-1689877065776.png";
+
 const App = () => {
   /* The line `const [todos, setTodos] = useState([]);` is using the `useState` hook to create a state
 variable called `todos` and a corresponding setter function called `setTodos`. The initial value of
